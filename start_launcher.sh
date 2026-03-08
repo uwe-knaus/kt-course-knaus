@@ -4,6 +4,7 @@
 
 cd "$(dirname "$0")"
 if [ -d "lab_suite" ]; then
+    source .venv/bin/activate
     cd lab_suite
     python -m app_launcher
 else
