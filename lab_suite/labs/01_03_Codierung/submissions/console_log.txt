@@ -1,0 +1,11 @@
+Enter the string to compute Huffman Code Tree: ---------------------------------------------------------
+Dictionary of Characters with char frequency:       {'Ä': 2, 'Ö': 3, 'Ü': 2}
+Dictionary converted into a list:                   dict_items([('Ä', 2), ('Ö', 3), ('Ü', 2)])
+List of characters sorted to descending frequency:  [('Ö', 3), ('Ä', 2), ('Ü', 2)]
+Huffman Code Dictionary:                            {'Ö': '0', 'Ü': '10', 'Ä': '11'}
+
+ Char | Huffman code 
+----------------------
+ 'Ö'  |           0
+ 'Ä'  |          11
+ 'Ü'  |          10

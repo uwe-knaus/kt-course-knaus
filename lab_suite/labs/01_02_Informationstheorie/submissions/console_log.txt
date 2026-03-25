@@ -1,0 +1,71 @@
+Analyze the file:  /home/student/Documents/KT-course/lab_suite/labs/01_02_Informationstheorie/sampletext.txt
+
+-----File Contents:---------------------------------------------------
+Gold zählt zu den ersten Metallen, die von Menschen verarbeitet wurden. Wegen seiner auffallend glänzenden gelben Farbe wurde es metallisch gediegen in der Natur gefunden. Es lässt sich sehr gut mechanisch bearbeiten und korrodiert nicht. Wegen der Beständigkeit seines Glanzes, seiner Seltenheit, seiner scheinbaren Unvergänglichkeit und seiner auffallenden Schwere verwendeten es viele Kulturen vor allem für herausgehobene rituelle Gegenstände und Schmuck.
+
+Frühgeschichte, europäisches Altertum und Mittelalter, präkolumbische Kulturen
+
+Die sogenannte Goldmaske des Agamemnon (ca. 1400 v. Chr.) im Nationalmuseum Athen
+
+
+
+Die Goldgewinnung ist seit der frühen Kupferzeit nachgewiesen. Die leichte Legierbarkeit mit vielen Metallen, die moderate Schmelztemperatur und die günstigen Eigenschaften der Legierungen machten Gold als Werkstoff attraktiv. Die Goldgewinnung und -reinigung erfolgte durch Goldwäscherei, Amalgamation und Kupellation (Oxidieren unedlerer Metalle AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmit Blei, auch Läuterung genannt) oder in Kombination der Verfahren. 
+Number of characters: 1094
+Character Dictionary: {'G': 8, 'o': 24, 'l': 47, 'd': 39, ' ': 128, 'z': 6, 'ä': 10, 'h': 32, 't': 56, 'u': 39, 'e': 155, 'n': 88, 'r': 58, 's': 38, 'M': 5, 'a': 41, ',': 8, 'i': 62, 'v': 9, 'c': 24, 'b': 10, 'w': 8, '.': 10, 'W': 3, 'g': 33, 'f': 13, 'F': 2, 'm': 21, 'N': 2, 'E': 2, 'k': 9, 'B': 2, 'S': 4, 'U': 1, 'K': 5, 'ü': 4, '\n': 4, 'p': 5, 'A': 59, 'D': 4, '(': 2, '1': 1, '4': 1, '0': 2, 'C': 1, ')': 2, 'L': 3, '-': 1, 'O': 1, 'x': 1, 'V': 1}
+
+-------Table of characters:----------------
+ e     | cnt=155    p=0.142   H=2.819 bit/char  H_av=0.399 bit/char
+       | cnt=128    p=0.117   H=3.095 bit/char  H_av=0.362 bit/char
+ n     | cnt= 88    p=0.080   H=3.636 bit/char  H_av=0.292 bit/char
+ i     | cnt= 62    p=0.057   H=4.141 bit/char  H_av=0.235 bit/char
+ A     | cnt= 59    p=0.054   H=4.213 bit/char  H_av=0.227 bit/char
+ r     | cnt= 58    p=0.053   H=4.237 bit/char  H_av=0.225 bit/char
+ t     | cnt= 56    p=0.051   H=4.288 bit/char  H_av=0.219 bit/char
+ l     | cnt= 47    p=0.043   H=4.541 bit/char  H_av=0.195 bit/char
+ a     | cnt= 41    p=0.037   H=4.738 bit/char  H_av=0.178 bit/char
+ d     | cnt= 39    p=0.036   H=4.810 bit/char  H_av=0.171 bit/char
+ u     | cnt= 39    p=0.036   H=4.810 bit/char  H_av=0.171 bit/char
+ s     | cnt= 38    p=0.035   H=4.847 bit/char  H_av=0.168 bit/char
+ g     | cnt= 33    p=0.030   H=5.051 bit/char  H_av=0.152 bit/char
+ h     | cnt= 32    p=0.029   H=5.095 bit/char  H_av=0.149 bit/char
+ o     | cnt= 24    p=0.022   H=5.510 bit/char  H_av=0.121 bit/char
+ c     | cnt= 24    p=0.022   H=5.510 bit/char  H_av=0.121 bit/char
+ m     | cnt= 21    p=0.019   H=5.703 bit/char  H_av=0.109 bit/char
+ f     | cnt= 13    p=0.012   H=6.395 bit/char  H_av=0.076 bit/char
+ ä     | cnt= 10    p=0.009   H=6.773 bit/char  H_av=0.062 bit/char
+ b     | cnt= 10    p=0.009   H=6.773 bit/char  H_av=0.062 bit/char
+ .     | cnt= 10    p=0.009   H=6.773 bit/char  H_av=0.062 bit/char
+ v     | cnt=  9    p=0.008   H=6.925 bit/char  H_av=0.057 bit/char
+ k     | cnt=  9    p=0.008   H=6.925 bit/char  H_av=0.057 bit/char
+ G     | cnt=  8    p=0.007   H=7.095 bit/char  H_av=0.052 bit/char
+ ,     | cnt=  8    p=0.007   H=7.095 bit/char  H_av=0.052 bit/char
+ w     | cnt=  8    p=0.007   H=7.095 bit/char  H_av=0.052 bit/char
+ z     | cnt=  6    p=0.005   H=7.510 bit/char  H_av=0.041 bit/char
+ M     | cnt=  5    p=0.005   H=7.773 bit/char  H_av=0.036 bit/char
+ K     | cnt=  5    p=0.005   H=7.773 bit/char  H_av=0.036 bit/char
+ p     | cnt=  5    p=0.005   H=7.773 bit/char  H_av=0.036 bit/char
+ S     | cnt=  4    p=0.004   H=8.095 bit/char  H_av=0.030 bit/char
+ ü     | cnt=  4    p=0.004   H=8.095 bit/char  H_av=0.030 bit/char
+ b'\n' | cnt=  4    p=0.004   H=8.095 bit/char  H_av=0.030 bit/char
+ D     | cnt=  4    p=0.004   H=8.095 bit/char  H_av=0.030 bit/char
+ W     | cnt=  3    p=0.003   H=8.510 bit/char  H_av=0.023 bit/char
+ L     | cnt=  3    p=0.003   H=8.510 bit/char  H_av=0.023 bit/char
+ F     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ N     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ E     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ B     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ (     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ 0     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ )     | cnt=  2    p=0.002   H=9.095 bit/char  H_av=0.017 bit/char
+ U     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ 1     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ 4     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ C     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ -     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ O     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ x     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+ V     | cnt=  1    p=0.001   H=10.095 bit/char  H_av=0.009 bit/char
+-------------------------------------------
+
+Average Entropy H = 4.531 bit/char
+Total Entropy of 1094 characters H=4957.06 bit = 620.00 byte

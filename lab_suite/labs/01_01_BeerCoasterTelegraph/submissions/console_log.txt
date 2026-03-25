@@ -1,0 +1,13 @@
+Anzahl Bierdeckel R (Bezeichnungsraum) [Standard 30]: 
+Bierdeckel-Telegraf: R = 3 Deckel (Bezeichnungsraum), B = Brauereien (Basis)
+n = R/B Stellen,  V = B^n = Signalvorrat,  G = log2(V) = Entscheidungsgehalt (H = G in bit)
+============================================================
+
+   B |  n=R/B |        V = B^n | G = log2(V) [bit]
+------------------------------------------
+   1 |      3 |              1 |         0.00
+   3 |      1 |              3 |         1.58
+
+============================================================
+Optimum: B = 3  (n = 1 Stellen)  =>  V_max = 3,  G_max = 1.58 bit (H = G)
+Theorie: B = e ≈ 2.72 ist optimal; bei ganzzahligem B oft B = 2 oder B = 3.
